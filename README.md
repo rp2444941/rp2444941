@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm currently working on something cool...
 i'm currently learning with help from docs.github.com
-Ask me About github
+
 
 
 ## 🔗 Links

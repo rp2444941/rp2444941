@@ -35,7 +35,7 @@
 
 ### 📌 Featured Projects (Coming Soon)
 
-- 🔹 Java + JUnit 4 Testing
+- 🔹 Java 
 - 🔹 JavaScript DOM Mini Projects
 - 🔹 React Hooks Practice
 

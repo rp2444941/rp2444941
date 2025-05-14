@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rudra Pratap</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Java • JavaScript • React • JUnit</h3>
+<h3 align="center">Full-Stack Developer in Progress | Java • React • DSA • Open Source Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Java, JavaScript, React, and JUnit 4**
-- 🌱 I’m currently learning **React, DSA (Java), and Backend Development**
-- 💡 Exploring **open-source** and building personal projects
-- 📫 How to reach me: **rp2444941@gmail.com**
+I’m a B.Tech graduate (2022) passionate about full-stack development. Currently working at **MBB Lab Pvt. Ltd.** and actively upskilling through projects, open-source collaboration, and daily problem-solving. I believe in building real-world solutions with clean, testable code and continuous learning.
+
+- 🔭 Currently working on **Java, JavaScript, React, and JUnit 4**
+- 🌱 Learning **React**, **DSA in Java**, and **Backend Development**
+- 💡 Exploring **open-source** and building **hands-on projects**
+- 📫 Reach me at: **rp2444941@gmail.com**
 
 ---
 
@@ -21,6 +23,17 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 🔹 **Text-to-Speech App** – Vanilla JS app that converts typed text into speech using Web Speech API  
+- 🔹 **Pong Clone** – A JavaScript-based clone of the classic arcade game  
+- 🔹 **React Tabs App** – A simple tabbed interface built using React Hooks  
+
+> More projects coming soon: Java DSA Visualizer, React Weather App, and Full-Stack Expense Tracker.
 
 ---
 
@@ -31,13 +44,17 @@
   <img src="https://streak-stats.demolab.com?user=rp2444941&theme=tokyonight&hide_border=false" alt="rudra's streak" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rp2444941&theme=tokyonight" alt="activity graph" />
+</p>
+
 ---
 
-### 📌 Featured Projects (Coming Soon)
+### 🎯 Currently Looking For
 
-- 🔹 Java 
-- 🔹 JavaScript DOM Mini Projects
-- 🔹 React Hooks Practice
+- 🧩 Internship or full-time roles in **web development** (frontend/backend/full-stack)
+- 🌍 Collaboration opportunities in **open-source** (especially Java/JS/React-based)
+- 📢 Networking with developers, mentors, and startup teams
 
 ---
 

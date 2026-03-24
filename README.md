@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Pratap</h1>
-<h3 align="center">Full-Stack Developer in Progress | Java • React • DSA • Open Source Enthusiast</h3>
+<h3 align="center">Frontend Developer (React) | Building Real-World Projects | Open to Opportunities</h3>
 
 ---
 

@@ -63,7 +63,7 @@ https://ai-dashboard-jbov.onrender.com
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rp2444941&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp2444941&layout=compact" />
 </p>
 
 ## 📈 Activity Graph

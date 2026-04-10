@@ -62,8 +62,7 @@ https://ai-dashboard-jbov.onrender.com
 ---
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rp2444941&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rp2444941&show_icons=true&theme=tokyonight&hide_border=true" />
 ---
 
 ## 📈 Activity Graph
